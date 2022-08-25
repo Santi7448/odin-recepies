@@ -3,3 +3,28 @@ body {
   background-size: cover;
 }
 
+.title {
+  display: flex;
+  font-size: 35px;
+  padding-left: 800px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  padding-left: 800px;
+  font-size: 24px;
+  font-weight: bold;
+  padding-top: 20px;
+  
+  
+  
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #555;
+}
