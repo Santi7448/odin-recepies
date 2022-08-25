@@ -1,2 +1,5 @@
-
+body {
+  background-image: url(uglykitchen.jpg);
+  background-size: cover;
+}
 
